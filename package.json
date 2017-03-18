@@ -1,0 +1,16 @@
+{
+  "name": "elm-webpack-html-template",
+  "version": "1.0.0",
+  "description": "webpack-html-plugin templates with elm entry",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": "git+https://github.com/yuffiy/elm-webpack-html-template.git",
+  "author": "Rabbit <yfhj1990@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuffiy/elm-webpack-html-template/issues"
+  },
+  "homepage": "https://github.com/yuffiy/elm-webpack-html-template#readme"
+}
